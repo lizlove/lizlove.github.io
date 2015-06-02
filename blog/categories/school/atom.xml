@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: school | light traffic]]></title>
+  <link href="http://lizlove.github.io/blog/categories/school/atom.xml" rel="self"/>
+  <link href="http://lizlove.github.io/"/>
+  <updated>2015-06-02T15:03:38-04:00</updated>
+  <id>http://lizlove.github.io/</id>
+  <author>
+    <name><![CDATA[Liz Lovero]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My first post on Octopress]]]></title>
+    <link href="http://lizlove.github.io/blog/2015/06/02/my-first-post-on-octopress/"/>
+    <updated>2015-06-02T14:34:31-04:00</updated>
+    <id>http://lizlove.github.io/blog/2015/06/02/my-first-post-on-octopress</id>
+    <content type="html"><![CDATA[<p>&ldquo;Hello, World&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
