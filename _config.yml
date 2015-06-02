@@ -2,13 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://lizlove.github.io
 title: light traffic
 subtitle: a slim volume
 author: Liz Lovero
 simple_search: https://www.google.com/search
-description:
-"Elizabeth Lovero blogs on development, design, and the detritus of digital life"
+description: Elizabeth Lovero blogs on development design and the detritus of digital life
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
